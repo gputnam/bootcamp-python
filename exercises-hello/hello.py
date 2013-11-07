@@ -7,5 +7,5 @@
 #
 # Run ./test.sh to make sure your program matches our expected output.
 #
-# TODO: write your code below
+print "Hello World"
 
